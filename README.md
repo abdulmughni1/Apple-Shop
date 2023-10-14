@@ -4,7 +4,7 @@
 
 ## Live Prview Project 
 - Production Link Change due to Heroku Free tire account closed move Heroku to cyclic.sh
-[Demo Project](https://fancy-scarf.cyclic.app//)
+[Demo Project](https://ruby-frail-capybara.cyclic.app/)
 
 
 ## Features
