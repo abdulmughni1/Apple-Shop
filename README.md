@@ -1,4 +1,4 @@
-# AmazonaShop
+# AppleShop
 
 > Build Ecommerce App Like Amazon By MERN Stack
 
